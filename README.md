@@ -1,2 +1,2 @@
 # Lucas Romero Fernández
-Personal website about my academic and research career.
+Personal website about my academic, research and personal career.
